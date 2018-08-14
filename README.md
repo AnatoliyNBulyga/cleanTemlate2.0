@@ -5,12 +5,12 @@
 
 1. Клонирование проекта к себе на ПК               
 ```sh
-git clone github.com/
+git clone https://github.com/AnatoliyNBulyga/cleanTemlate2.0.git
 ```
 
 2. Переходим в созданную папку
 ```sh
-cd 
+cd cleanTemlate2.0 
 ```
 
 3. Устанавливаем все зависимости
